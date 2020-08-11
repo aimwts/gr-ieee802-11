@@ -1,3 +1,5 @@
+8/11/20 Add note: GNU Radio for WiFi Test
+
 Hi!
 
 This an IEEE 802.11 a/g/p transceiver for GNU Radio that is fitted for operation
